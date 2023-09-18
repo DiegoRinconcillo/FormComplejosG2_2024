@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormComplejosG2_2024", "FormComplejosG2_2024.csproj", "{270AF07B-FF11-4067-B550-95033F611D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270AF07B-FF11-4067-B550-95033F611D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270AF07B-FF11-4067-B550-95033F611D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270AF07B-FF11-4067-B550-95033F611D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270AF07B-FF11-4067-B550-95033F611D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88BFD378-98AD-4074-B873-ABB5084D13EF}
+	EndGlobalSection
+EndGlobal
